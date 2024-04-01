@@ -1,5 +1,7 @@
 FrontEnd
+
 Github Link: https://github.com/Sir-Dommy/inventory-system-frontend
+
 Technologies used:
 ReactJs version 18.2
 You will also need npm to run the react app
