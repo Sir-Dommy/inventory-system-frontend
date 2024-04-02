@@ -15,7 +15,7 @@ const NavBar = () => {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                 <a className="navbar-brand btn btn-primary text-light" href="/">Home</a>
 
-                <a className="navbar-brand btn btn-primary text-light" href="/login">All Products</a>
+                <a className="navbar-brand btn btn-primary text-light" href="/allProducts">All Products</a>
                 
                 
                 
